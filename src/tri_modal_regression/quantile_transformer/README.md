@@ -1,0 +1,1 @@
+This subfolder contains the pickled transformation of the trainning dataset to a normal distribution around zero. The fitted transformation of the training dataset should be applied to the evaluation and testing dataset for consistency.
