@@ -38,7 +38,7 @@ The framework is designed to maximize generalizability and scalability, making i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/multimodal-regression.git
+   git clone https://github.com/gianniskandias/tri-modal-regression.git
    cd multimodal-regression
    ```
 
